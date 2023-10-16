@@ -112,7 +112,7 @@ Despite the explanation above, we leave the parameters at their default settings
 ## AIOT SPEAKER 
 ### Result 
 
-[![Seven - Rosé(A.I Cover) original BTS-Jung Kook](https://img.youtube.com/vi/i90I7LdrHjs/0.jpg)](https://www.youtube.com/watch?v=i90I7LdrHjs)
+[![Seven - Rosé(A.I Cover) original BTS-Jung Kook](https://img.youtube.com/vi/i90I7LdrHjs/0.jpg)](https://www.youtube.com/watch?v=i90I7LdrHjs)  
 [![Result Youtube Shorts](https://img.youtube.com/vi/1VO9MiSQf1U/0.jpg)](https://www.youtube.com/watch?v=1VO9MiSQf1U)
 
 <img width="600" alt="스크린샷 2023-10-16 오후 2 50 45" src="https://github.com/jh941213/AIOT_Speaker/assets/112835087/a13d106f-ee74-418b-9067-33942cef1ee5">
